@@ -1,6 +1,5 @@
 # Team 6 Project
 
-> MDB - React Admin Dashboard Free
 
 ## Build Setup
 
