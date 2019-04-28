@@ -1,4 +1,4 @@
-# mdbreact-admin-template-free
+# Team 6 Project
 
 > MDB - React Admin Dashboard Free
 
